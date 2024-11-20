@@ -12,7 +12,7 @@ html{
 header{
     width: 100%;
     min-height: 100vh;
-    background: url(../img/foto-header2.png.);
+    background: url(../img/foto-header2.png);
     background-size: cover;
     padding-top: 50px;
 }
